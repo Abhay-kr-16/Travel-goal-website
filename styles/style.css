@@ -59,13 +59,14 @@
 #destinations {
   display: flex;
   justify-content: center;
-  gap: 20px;
+
   width: 90%;
   margin: 0 auto;
 }
 .destination {
   flex: 1;
   text-transform: uppercase;
+  margin: 0 20px;
 }
 .destination p {
   text-align: center;
