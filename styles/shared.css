@@ -35,8 +35,8 @@ header ul {
 header li {
   margin-left: 20px;
 }
-header a:link,
-header a:visited {
+.nav-link:link,
+.nav-link:visited {
   display: inline-block;
   text-decoration: none;
   color: rgb(255, 251, 0);
@@ -45,8 +45,8 @@ header a:visited {
   padding: 12px;
   border-radius: 6px;
 }
-header nav a:hover,
-header nav a:visited {
+.nav-link:hover,
+.nav-link:active {
   color: rgb(77, 77, 77);
   background-color: rgb(255, 251, 0);
 }
