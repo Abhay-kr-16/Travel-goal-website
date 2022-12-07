@@ -64,6 +64,7 @@ main li img {
   font-weight: bold;
   border-radius: 5px;
   padding: 6px;
+  transition: all 0.2s;
 }
 .actions a:hover,
 .actions a:active {

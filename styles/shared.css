@@ -44,6 +44,7 @@ header li {
   font-size: 20px;
   padding: 12px;
   border-radius: 6px;
+  transition: all 0.3s;
 }
 .nav-link:hover,
 .nav-link:active {
